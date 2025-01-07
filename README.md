@@ -1,6 +1,6 @@
 
-## NAME-Pooja Priya.B
-## REG NO-24001090
+## NAME-keerthana T
+## REG NO-24002841
 
 # EXP-3:UPLODING TEMPERATURE SENSOR DATA IN THING SPEAK CLOUD
 # AIM:
@@ -80,8 +80,8 @@ Automatically act on your data and communicate using third-party services like T
 #include "DHT.h"
 
 
-char ssid[] = "Pooja'sS23FE";
-char pass[] = "Pooja@2006";
+char ssid[] = "keerthana'sS23FE";
+char pass[] = "keerthana@2007";
 
 const int out = 23;
 long T;
@@ -148,5 +148,3 @@ void loop()
 # RESULT:
 
 Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
-
-
